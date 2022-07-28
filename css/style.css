@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    color: black !important;
+    text-decoration: none !important;
+}
+a:hover{
+    color: rgb(65, 65, 65, 1) !important;
+}
+.main-section{
+    background-color: #f9fafc;
+    height: 100vh;
+}
+
+.head > .icon{
+    color: tomato;
+    font-size: 1.2em;
+}
+.category, .meal{
+    height: 120px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    transition: all 0.6s;
+}
+.category:hover, .meal:hover{
+    transform: scale(1.05);
+}
+
+#meal-img{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+}
+
+.meal{
+    height: 300px;
+}
+
+.text-background{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.3;
+    border-radius: 10px;
+}
+
+.text-category{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: white;
+    font-weight: bold;
+    z-index:999;
+}
+
+#instruction{
+    text-align: justify;
+    white-space: pre-wrap;
+}
+
+@media screen and (max-width: 576px){
+    .instruction{
+        margin: 100px 0;
+    }
+}
