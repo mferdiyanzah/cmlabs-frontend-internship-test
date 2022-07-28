@@ -28,7 +28,6 @@
   <h3 align="center">mealapp</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
     <br />
     <br />
     <br />
