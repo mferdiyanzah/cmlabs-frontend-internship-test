@@ -32,11 +32,7 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://mferdiyanzah.github.io/cmlabs-frontend-internship-test/">View Demo</a>
   </p>
 </div>
 
@@ -95,7 +91,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ### Installation
 
 
-1. You can see the demo at [https://example.com](https://example.com)
+1. You can see the demo at [mealapp](https://mferdiyanzah.github.io/cmlabs-frontend-internship-test/)
 2. Clone the repo
    ```sh
    git clone https://github.com/mferdiyanzah/cmlabs-frontend-internship-test.git
